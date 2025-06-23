@@ -31,7 +31,7 @@ Welcome to my **ReactJS-based Expense Tracker**! 🚀 This app helps users effic
 
 ## 🚀 Live Demo  
 
-🔗 https://web-drive-74vp.vercel.app/  
+🔗 https://expense-tracker-three-jade-25.vercel.app/
 
 ## 💡 Contributing  
 
